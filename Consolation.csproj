@@ -13,6 +13,7 @@
     <RepositoryType>Git</RepositoryType>
     <PackageTags>cli, command line, console</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Tomat.Consolation</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
